@@ -1,2 +1,2 @@
 # Seach_engine
-![ui](./ui.png)
+![ui](.ui.png)
